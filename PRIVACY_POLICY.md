@@ -1,6 +1,6 @@
 Privacy Policy for TubeUp
 
-Last updated: [12.21.23]
+Last updated: [12.21.24]
 
 1. **Introduction**
    Welcome to TubeUp. This Privacy Policy describes how TubeUp, owned by [Your Name or Your Company], collects, uses, and discloses information when you use our video upload service to YouTube playlists.
